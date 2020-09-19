@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3360" started-at="2020-09-19T14:34:39 GMT+05:30" finished-at="2020-09-19T14:34:42 GMT+05:30">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3360" started-at="2020-09-19T14:34:39 GMT+05:30" finished-at="2020-09-19T14:34:42 GMT+05:30">
+      <class name="demo.api.DemoGETAPI">
+        <test-method status="PASS" signature="GetDemoapi_Status_code_check()[pri:0, instance:demo.api.DemoGETAPI@711f39f9]" name="GetDemoapi_Status_code_check" duration-ms="1824" started-at="2020-09-19T14:34:39 GMT+05:30" finished-at="2020-09-19T14:34:41 GMT+05:30">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetDemoapi_Status_code_check -->
+        <test-method status="PASS" signature="GetDemoapi_Status_line_check()[pri:0, instance:demo.api.DemoGETAPI@711f39f9]" name="GetDemoapi_Status_line_check" duration-ms="627" started-at="2020-09-19T14:34:41 GMT+05:30" finished-at="2020-09-19T14:34:42 GMT+05:30">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetDemoapi_Status_line_check -->
+        <test-method status="PASS" signature="GetDemoapi_header_check()[pri:0, instance:demo.api.DemoGETAPI@711f39f9]" name="GetDemoapi_header_check" duration-ms="876" started-at="2020-09-19T14:34:42 GMT+05:30" finished-at="2020-09-19T14:34:42 GMT+05:30">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetDemoapi_header_check -->
+      </class> <!-- demo.api.DemoGETAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
